@@ -1,0 +1,15 @@
+*.log
+.cache
+.DS_Store
+.idea
+.vscode
+.vscode/*
+build
+dist
+node_modules
+.gitkeep
+converage
+yarn-error.log
+npm-debug.log
+.yarnclean
+distzip
