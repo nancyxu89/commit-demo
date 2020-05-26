@@ -26,6 +26,6 @@
     "lint-staged": "^10.2.6"
   },
   "hooks": {
-    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS"
   }
 }
